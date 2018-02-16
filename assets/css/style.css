@@ -1,7 +1,8 @@
 body {
-    colo:r #ffffff;
+    color: #777777;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-    
+}
+
 .aside {
     width: 270px;
 }
@@ -12,8 +13,10 @@ body {
 
 .footer {
     background-color: #666666;
+    bottom: 0;
+    position: fixed;
     text-align: center;
-
+    width: 960px;
 }
 
 .h1 {
@@ -21,7 +24,6 @@ body {
     color: white;
     font-family: 'Georgia', Times, 'Times New Roman', serif;
     font-size: 23px;
-
 }
 
 .h2 {
@@ -42,12 +44,13 @@ body {
 
 .image {
     float: none;
-    position: absolute;
+}
+
+.nav {
 }
 
 .section {
     width: 650px;
-
 }
 
 .wrapper {
