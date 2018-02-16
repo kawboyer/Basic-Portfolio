@@ -1,0 +1,55 @@
+body {
+    colo:r #ffffff;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    
+.aside {
+    width: 270px;
+}
+
+.clearfix {
+    overflow: auto;
+}
+
+.footer {
+    background-color: #666666;
+    text-align: center;
+
+}
+
+.h1 {
+    background-color: #4aaaa5;
+    color: white;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    font-size: 23px;
+
+}
+
+.h2 {
+    color: #4aaaa5;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    font-size: 21px;
+}
+
+.h3 {
+    color: #4aaaa5;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    font-size: 15px;
+}
+
+.header {
+   background-color: #ffffff;
+}
+
+.image {
+    float: none;
+    position: absolute;
+}
+
+.section {
+    width: 650px;
+
+}
+
+.wrapper {
+    width: 960px;
+}
